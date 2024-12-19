@@ -49,7 +49,7 @@ _start:
 
 
 
-; sessão de funções
+; seção de funções
 
 exibirMensagem:
   mov eax, 4

@@ -1,4 +1,4 @@
-; sessão utilizada para alocar dados a rótulos que não possuem inicialização de valores
+; seção utilizada para alocar dados a rótulos que não possuem inicialização de valores
 section .bss
   ; resb: reserva um número especificado de bytes
   buffer resb 100

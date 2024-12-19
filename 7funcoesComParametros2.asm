@@ -71,7 +71,7 @@ _start:
 
 
 
-; sessão de funções
+; seção de funções
   exibirMensagem:
     ; o registrador 'esp' serve para acessar valores na pilha
     ; ele sempre contém o endereço do valor que está no topo da pilha

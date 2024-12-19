@@ -17,7 +17,7 @@ _start:
 
 
 
-; sessão de funções
+; seção de funções
 
 exibirMsg:
   mov eax, 4

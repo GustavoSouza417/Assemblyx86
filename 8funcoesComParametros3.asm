@@ -61,7 +61,7 @@ _start:
 
 
 
-; sessão de funções
+; seção de funções
   ; função que exibe uma mensagem passada por parâmetro
   exibirMensagem:
     mov eax, 4
